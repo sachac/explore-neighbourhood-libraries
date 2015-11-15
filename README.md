@@ -1,6 +1,7 @@
-# viz
+# Explore Neighbourhood Libraries
 
-This project was generated with the [Angular Full-Stack Generator](https://github.com/DaftMonk/generator-angular-fullstack) version 3.0.0-rc8.
+Quick prototype for the Toronto Public Library hackathon on Nov 14-15, 2015.
+Sacha Chua (sacha@sachachua.com)
 
 ## Getting Started
 
@@ -20,10 +21,6 @@ This project was generated with the [Angular Full-Stack Generator](https://githu
 
 3. Run `grunt serve` to start the development server. It should automatically open the client in your browser when ready.
 
-## Build & development
+## Tampermonkey script for injection
 
-Run `grunt build` for building and `grunt serve` for preview.
-
-## Testing
-
-Running `npm test` will run the unit tests with karma.
+    document.querySelector('#refinements-library_branch').parentNode.querySelector('h3').innerHTML = 'Library Branch <a target="_blank" style="color: white; text-decoration: underline" href="http://localhost:9000/viz.html?url=' + encodeURIComponent(location.href) + '">(Visualize)</a>';
