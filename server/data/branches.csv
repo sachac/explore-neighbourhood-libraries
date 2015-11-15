@@ -1,0 +1,102 @@
+Code,Branch Name,Tier,Address,Telephone ,Postal Code,FSA,NBHD No.,NBHD Name,Ward No.,Ward Region,TSNS 2020 NIA,TSNS 2020 Branch,2011 Catchment Population,Hours Open per Week (Includes Sundays),Branch Staff Hours,"Floor Space 
+(Sq Ft)",Collection Size,Total # of Public PCs with Internet Access,Seating,Total Rental Space (sq. ft.),Public Parking Spaces, Public Transit 
+TRL,Toronto Reference Library,R&R,789 Yonge St,(416) 395-5577,M4W 2G8,M4W,95/98,Annex/ Rosedale-Moore Park ,27,Toronto Centre-Rosedale ,No,No,2615060,69,"327,928","426,535",1820279,255,1423,24235,None,50 m - 100 m
+NYCL,North York Central,R&R,5120 Yonge St,(416) 395-5535,M2N 5N9,M2N,38/51,Lansing-Westgate/ Willowdale East,23,Willowdale ,No,No,85775,69,"184,366","168,022",654383,145,141,758,None,50 m - 100 m
+FV,Fairview,DL ,35 Fairview Mall Dr,(416) 395-5750,M2J 4S4,M2J,47,Don Valley Village,33,Don Valley East ,No,No,49363,69,"75,330","69,458",219826,55,351,8838,114,50 m - 100 m
+RI,Richview,DL ,1806 Islington Ave,(416) 394-5120,M9P 3N3,M9P,7,Willowridge-Martingrove-Richview,4,Etobicoke Centre ,No,Yes,79789,69,"51,761","47,252",156662,49,156,1649,139,less than 50 m
+AG,Agincourt ,DL ,155 Bonis Ave,(416) 396-8943,M1T 3W6,M1T,118,Tam O'Shanter-Sullivan ,40,Scarborough-Agincourt ,No,No,60424,69,"69,178","27,000",152189,38,188,1500,86,less than 50 m
+MAL,Malvern,DL ,30 Sewells Rd,(416) 396-8969,M1B 3G5,M1B,132,Malvern,42,Scarborough-Rouge River ,No,No,65040,69,"47,993","25,834",132514,40,186,1680,Shared,50 m - 100 m
+BF,Barbara Frum,DL ,20 Covington Rd,(416) 395-5440,M6A 3C1,M6A,32,Englemount-Lawrence ,15,Eglinton-Lawrence,No,No,62399,69,"49,395","39,223",128094,29,108,1521,6,50 m - 100 m
+ND,Northern District,DL ,40 Orchard View Blvd,(416) 393-7610,M4R 1B9,M4R,100,Yonge-Eglinton,16,Eglinton-Lawrence ,No,No,30634,69,"46,374","45,750",125597,25,239,4212,None,50 m - 100 m
+CED,Cedarbrae,DL ,545 Markham Rd,(416) 396-8850,M1H 2A1,M1H,137,Woburn,43,Scarborough East,Yes,Yes,43515,69,"59,350","31,506",123731,67,175,1750,69,50 m - 100 m
+AB,Albion,DL,1515 Albion Rd,(416) 394-5170,M9V 1B2,M9V,2,Mount Olive-Silverstone-Jamestown,1,Etobicoke North,Yes,Yes,48697,69,"43,826","32,279",116372,28,137,1467,120,100 m - 250 m
+DM,Don Mills,DL ,888 Lawrence Ave E,(416) 395-5710,M3C 1P6,M3C,42,Banbury-Don Mills ,25,Don Valley West ,No,No,37844,69,"44,699","21,563",115216,24,100,1508,47,50 m - 100 m
+LHS,Lillian H. Smith,DL ,239 College St,(416) 393-7746,M5T 1R5,M5T,78,Kensington-Chinatown ,20,Trinity-Spadina ,No,No,14284,69,"38,329","38,935",107182,35,110,1735,None,less than 50 m
+YW,York Woods,DL,1785 Finch Ave W,(416) 395-5980,M3N 1M6,M3N,25,Glenfield-Jane Heights ,8,York West ,Yes,Yes,56263,69,"41,332","42,176",105126,46,89,15282,89,50 m - 100 m
+ACD,Albert Campbell ,DL,496 Birchmount Rd,(416) 396-8890,M1K 1N8,M1K,120,Clairlea-Birchmount ,35,Scarborough-Southwest,No,Yes,49530,69,"43,880","26,100",103106,31,95,2098,45,50 m - 100 m
+MAS,Maria A. Shchuka,DL ,1745 Eglinton Ave W,(416) 394-1000,M6E 2H4,M6E,107,Oakwood-Vaughan,15,Eglinton-Lawrence ,No,No,35495,69,"33,397","25,475",96601,33,130,1005,14,less than 50 m
+SWS,S. Walter Stewart,DL ,170 Memorial Park Ave,(416) 396-3975,M4J 2K5,M4J,59,Danforth Village - East York,29,Toronto-Danforth ,No,No,29019,69,"36,436","25,847",96127,42,122,1887,19,50 m - 100 m
+DO,Downsview,NL,2793 Keele St,(416) 395-5720,M3M 2G3,M3M,26,Downsview-Roding-CFB,9,York Centre ,Yes,Yes,45053,66,"31,795","20,016",82227,26,104,2133,16,50 m - 100 m
+BR,Brentwood,DL ,36 Brentwood Rd N,(416) 394-5240,M8X 2B5,M8X,15,Kingsway South ,5,Etobicoke- Lakeshore,No,No,33138,69,"35,053","17,500",80307,35,130,715,None,100 m - 250 m
+BL,Bloor/Gladstone,DL ,1101 Bloor St W,(416) 393-7674,M6H 1M7,M6H,83,Dufferin Grove ,18,Davenport,No,No,37035,69,"39,567","20,627",78297,39,137,1060,None,less than 50 m
+PK,Parkdale,NL,1303 Queen St W,(416) 393-7686,M6K 1L6,M6K,85,South Parkdale,14,Parkdale-High Park ,Yes,Yes,26555,69,"25,389","24,083",73616,23,120,3849,None,less than 50 m
+DP,Deer Park,NL,40 St. Clair Ave E,(416) 393-7657,M4T 1M9,M4T,98,Rosedale-Moore Park,22,St. Paul's ,No,No,29267,62,"24,388","16,558",72613,12,79,776,None,50 m - 100 m
+EA,Eatonville,NL,430 Burnhamthorpe Rd,(416) 394-5270,M9B 2B1,M9B,14,Islington-City Centre West,5,Etobicoke-Lakeshore ,No,No,35778,65.5,"29,557","12,203",68977,11,70,1000,49,50 m - 100 m
+LO,Locke,NL,3083 Yonge St,(416) 393-7730,M4N 2K7,M4N,103,Lawrence Park South,25,Don Valley West ,No,No,24344,62,"16,180","11,647",68102,9,70,614,10,less than 50 m
+YO,Yorkville,NL,22 Yorkville Ave,(416) 393-7660,M4W 1L4,M4W,95,Annex ,27,Toronto Centre-Rosedale ,No,No,46077,62,"17,763","9,053",63434,7,47,N/A,None,50 m - 100 m
+BRW,Bridlewood,NL,2900 Warden Ave ,(416) 396-8960,M1W 2S8,M1W,117,L'Amoreaux,39,Scarborough-Agincourt,No,No,39671,65.5,"20,875","7,690",62310,7,87,N/A,Shared,50 m - 100 m
+PL,Parliament Street,NL,269 Gerrard St E,(416) 393-7663,M5A 2G6,M5A,73,Moss Park,28,Toronto Centre-Rosedale ,No,Yes,35152,69,"21,731","14,634",58895,11,86,968,None,50 m - 100 m
+RD,Riverdale,NL,370 Broadview Ave,(416) 393-7720,M4K 2M8,M4K,68,North Riverdale ,30,Toronto-Danforth ,No,No,14942,62,"26,153","9,658",58419,18,110,800,None,less than 50 m
+RN,Runnymede,NL,2178 Bloor St W,(416) 393-7697,M6S 1M8,M6S,88,High Park North,13,Parkdale-High Park,No,No,11299,62.5,"25,753","12,034",58286,13,66,625,None,100 m - 250 m
+PA,Pape/Danforth,DL ,701 Pape Ave,(416) 393-7727,M4K 3S6,M4K,69,Blake-Jones ,30,Toronto-Danforth ,No,No,26128,69,"23,078","8,175",57394,14,54,423,None,less than 50 m
+WS,Woodside Square,NL,1571 Sandhurst Cir,(416) 396-8979,M1V 1V2,M1V,129,Agincourt North,41,Scarborough-Rouge River ,No,No,27413,62,"24,534","9,792",56896,21,126,875,Shared,50 m - 100 m
+JD,Jane/Dundas,NL,620 Jane St,(416) 394-1014,M6S 4A6,M6S,89,Runnymede-Bloor West Village ,13,Parkdale-High Park ,No,Yes,22642,62,"23,005","11,955",55348,19,45,765,16,50 m - 100 m
+LE,Leaside,NL,165 McRae Dr,(416) 396-3835,M4G 1S8,M4G,56,Leaside-Bennington ,26,Don Valley West ,No,No,21058,62,"17,636","12,000",55091,11,78,1000,None,50 m - 100 m
+SJ,St. James Town,NL,495 Sherbourne St,(416) 393-7744,M4X 1K7,M4X,74,North St. James Town ,28,Toronto Centre-Rosedale ,No,No,27541,40,"13,504","7,800",52878,18,123,N/A,None,less than 50 m
+DR,Dawes Road,NL,416 Dawes Rd ,(416) 396-3820,M4B 2E8,M4B,54,O'Connor-Parkview,31,Beaches-East York ,No,Yes,29895,50.5,"14,251","6,740",51646,13,35,450,None,50 m - 100 m
+BY,Bayview,NL,2901 Bayview Ave ,(416) 395-5460,M2K 1E6,M2K,52,Bayview Village ,24,Willowdale,No,No,47532,50.5,"15,124","6,333",50556,6,62,N/A,Shared,50 m - 100 m
+MI,Mimico Centennial,NL,47 Station Rd,(416) 394-5330,M8V 2R1,M8V,17,Mimico ,6,Etobicoke-Lakeshore ,No,No,26541,40,"9,409","17,469",49909,8,107,5099,11,less than 50 m
+MRV,Maryvale,NL,85 Ellesmere Rd ,(416) 396-8931,M1R 4B9,M1R,119,Wexford-Maryvale ,37,Scarborough Centre ,No,No,15962,50.5,"12,649","4,421",49899,8,24,400,Shared,50 m - 100 m
+SA,Sanderson,NL,327 Bathurst St,(416) 393-7653,M5T 1J1,M5T,78,Kensington-Chinatown ,20,Trinity-Spadina ,No,No,29948,62,"20,420","12,702",49387,13,110,1479,None,50 m - 100 m
+BUR,Burrows Hall,NL,1081 Progress Ave,(416) 396-8740,M1B 5Z6,M1B,132,Malvern,42,Scarborough-Rouge River,No,Yes,24216,40,"11,138","6,500",46904,9,31,N/A,Shared,50 m - 100 m
+HIL,Hillcrest,NL,5801 Leslie St,(416) 395-5830,M2H 1J8,M2H,48,Hillcrest Village ,24,Willowdale ,No,No,30664,40,"10,975","7,473",46881,12,40,1288,28,50 m - 100 m
+HP,High Park,NL,228 Roncesvalles Ave,(416) 393-7671,M6R 2L7,M6R,87,High Park-Swansea ,14,Parkdale-High Park ,No,No,27394,62,"17,527","8,850",46745,9,50,937,None,50 m - 100 m
+TH,Thorncliffe,NL,48 Thorncliffe Park Dr,(416) 396-3865,M4H 1J7,M4H,55,Thorncliffe Park ,26,Don Valley West ,Yes,Yes,19225,65.5,"18,346","11,034",46444,20,84,733,Shared,50 m - 100 m
+DA,Danforth/Coxwell,NL,1675 Danforth Ave,(416) 393-7783,M4C 5P2,M4C,64,Woodbine Corridor,32,Beaches-East York ,No,No,14641,62,"19,456","9,617",46286,7,30,890,1,50 m - 100 m
+BE,Beaches,NL,2161 Queen St E,(416) 393-7703,M4L 1J1,M4L,63,The Beaches ,32,Beaches-East York,No,No,14023,62,"18,491","8,000",45955,12,62,687,None,less than 50 m
+FH,Forest Hill,NL,700 Eglinton Ave W,(416) 393-7706,M5N 1B9,M5N,102,Forest Hill North,21,St. Paul's ,No,No,24387,62,"15,033","10,399",45130,6,40,N/A,None,50 m - 100 m
+BB,Brookbanks,NL,210 Brookbanks Dr,(416) 395-5480,M3A 2T8,M3A,45,Parkwoods-Donalda,34,Don Valley East,No,No,34617,40,"9,446","7,933",44408,9,65,560,20,50 m - 100 m
+ST,Steeles,NL,"375 Bamburgh Circle, C107",(416) 396-8975,M1W 3Y1,M1W,116,Steeles ,39,Scarborough-Agincourt ,No,No,25532,65.5,"16,617","5,009",44344,7,41,500,Shared,50 m - 100 m
+WE,Weston,NL,2 King St,(416) 394-1016,M9N 1K9,M9N,113,Weston ,11,York South-Weston ,Yes,Yes,18170,50.5,"16,890","11,944",43909,10,89,851,8,50 m - 100 m
+GHP,Goldhawk Park,NL,295 Alton Towers Cir,(416) 396-8964,M1V 4P1,M1V,130,Milliken  ,41,Scarborough-Rouge River ,No,No,26652,65.5,"16,180","8,000",43326,10,30,750,32,50 m - 100 m
+CE,Centennial,NL,578 Finch Ave W,(416) 395-5490,M2R 1N7,M2R,35,Westminster-Branson,10,York Centre,No,No,45693,50.5,"14,032","6,866",43266,7,54,1848,18,50 m - 100 m
+MS,Morningside,NL,4279 Lawrence Ave E,(416) 396-8881,M1E 2S8,M1E,136,West Hill ,44,Scarborough East ,Yes,Yes,26547,62,"12,485","7,000",42946,10,70,600,Shared,50 m - 100 m
+AD,Alderwood,NL,2 Orianna Dr,(416) 394-5310,M8W 4Y1,M8W,20,Alderwood,6,Etobicoke Lakeshore,No,No,11904,50.5,"10,702","7,341",42220,7,74,N/A,Shared,100 m - 250 m
+MA,Main Street,NL,137 Main St,(416) 393-7700,M4E 2V9,M4E,62,East End-Danforth,32,Beaches-East York ,No,No,20047,62,"17,909","8,664",41440,9,52,687,8,50 m - 100 m
+GE,Gerrard/Ashdale,NL,1432 Gerrard St E,(416) 393-7717,M4L 1Z6,M4L,65,Greenwood-Coxwell  ,30,Toronto-Danforth ,No,No,17776,50.5,"15,980","6,504",40826,7,46,N/A,4,50 m - 100 m
+NT,New Toronto,NL,110 Eleventh St,(416) 394-5350,M8V 3G5,M8V,18,New Toronto  ,6,Etobicoke-Lakeshore ,No,No,10900,43.5,"8,700","9,925",40747,7,45,693,10,50 m - 100 m
+HC,Highland Creek,NL,3550 Ellesmere Rd,(416) 396-8876,M1C 3Z2,M1C,134,Highland Creek ,44,Scarborough East ,No,No,24372,40,"9,955","7,000",40546,9,40,500,22,50 m - 100 m
+MD,Mount Dennis,NL,1123 Weston Rd,(416) 394-1008,M6N 3S3,M6N,115,Mount Dennis ,11,York South-Weston ,Yes,Yes,27249,50.5,"15,288","11,350",40307,20,76,1236,19,50 m - 100 m
+MCG,McGregor Park,NL,2219 Lawrence Ave E,(416) 396-8935,M1P 2P5,M1P,126,Dorset Park  ,37,Scarborough Centre ,No,No,19570,43.5,"10,010","7,793",39951,14,40,384,35,50 m - 100 m
+HW,Humberwood,NL,850 Humberwood Blvd,(416) 394-5210,M9W 7A6,M9W,1,West Humber-Clairville,2,Etobicoke North ,No,No,12623,40,"8,245","5,748",39945,7,60,N/A,Shared,50 m - 100 m
+WY,Wychwood,NL,1431 Bathurst St,(416) 393-7683,M5R 3J2,M5R,96,Casa Loma ,21,St. Paul's ,No,No,14681,62,"18,236","6,381",39892,9,42,864,None,100 m - 250 m
+ES,Eglinton Square,NL,"1 Eglinton Sq, Unit 126 ",(416) 396-8920,M1L 2K1,M1L,120,Clairlea-Birchmount,35,Scarborough Southwest ,No,Yes,13391,62,"13,286","4,716",38780,8,32,400,Shared,50 m - 100 m
+DU,Dufferin/St. Clair,NL,1625 Dufferin St,(416) 393-7712,M6H 3L9,M6H,93,Dovercourt-Wallace Emerson-Junction,17,Davenport ,No,No,16073,50.5,"12,940","11,208",38638,20,100,818,None,100 m - 250 m
+EG,Evelyn Gregory,NL,120 Trowell Ave,(416) 394-1006,M6M 1L7,M6M,110,Keelesdale-Eglinton West,12,York South-Weston ,Yes,Yes,18116,50.5,"11,102","6,200",37672,11,42,874,19,50 m - 100 m
+FP,Flemingdon Park,NL,29 St. Dennis Dr ,(416) 395-5820,M3C 3J3,M3C,44,Flemingdon Park ,26,Don Valley West ,Yes,Yes,22168,43.5,"10,538","7,250",37208,15,58,1364,Shared,50 m - 100 m
+OV,Oakwood Village Library and Arts Centre,NL,341 Oakwood Ave,(416) 394-1040,M6E 2W1,M6E,107,Oakwood-Vaughan ,15,Eglinton-Lawrence ,No,No,22410,50.5,"15,288","17,270",36083,10,61,2640,None,50 m - 100 m
+PU,Port Union,NL,5450 Lawrence Ave E,(416) 396-8885,M1C 3B2,M1C,133,Centennial Scarborough ,44,Scarborough East ,No,No,22419,50.5,"10,793","5,000",35979,6,40,450,Shared,50 m - 100 m
+FO,Fort York,NL,190 Fort York Blvd,(416) 393-6240,M5V 0E7 ,M5V,77,Waterfront Communities-The Island,20,Trinity and Spadina,No,No,26514,62,"18,200","16,008",35376,12,80,N/A,None,less than 50 m
+LB,Long Branch,NL,3500 Lakeshore Blvd W,(416) 394-5320,M8W 1N6,M8W,19,Long Branch,6,Etobicoke-Lakeshore ,No,No,9632,40,"8,481","6,418",34309,11,47,725,11,50 m - 100 m
+JS,Jane/Sheppard,NL,1906 Sheppard Ave West,(416) 395-5966,M3L 1Y7,M3L,25,Glenfield-Jane Heights ,9,York Centre ,Yes,Yes,18033,50.5,"9,755","7,000",33896,11,98,500,16,50 m - 100 m
+BC,Black Creek,NL,"1700 Wilson Ave, Unit 63-64",(416) 395-5470,M3L 1B2,M3L,26,Downsview-Roding-CFB,7,York West,Yes,Yes,15691,40,"7,444","5,782",33860,6,38,572,Shared,50 m - 100 m
+PM,Palmerston,NL,560 Palmerston Ave,(416) 393-7680,M6G 2P7,M6G,95,Annex,20,Trinity-Spadina ,No,No,8040,50.5,"11,976","8,493",33551,6,28,2812,None,50 m - 100 m
+AP,Amesbury Park,NL,1565 Lawrence Ave W,(416) 395-5420,M6L 1A8,M6L,30,Brookhaven-Amesbury ,12,York South-Weston,No,Yes,23120,40,"7,098","6,320",32992,6,47,N/A,22,50 m - 100 m
+KE,Kennedy/Eglinton,NL,2380 Eglinton Ave E,(416) 396-8924,M1K 2P3,M1K,125,Ionview ,37,Scarborough Centre ,Yes,Yes,24421,40,"10,010","6,713",32752,14,42,570,Shared,50 m - 100 m
+SP,Spadina Road,NL,10 Spadina Rd,(416) 393-7655,M5R 2S7,M5R,95,Annex,20,Trinity-Spadina ,No,No,9551,40,"10,046","3,952",32751,5,22,N/A,None,50 m - 100 m
+BD,Bendale,NL,1515 Danforth Rd,(416) 396-8910,M1J 1H5,M1J,127,Bendale,38,Scarborough Centre,No,Yes,25528,40,"7,316","8,500",32635,8,15,1000,30,50 m - 100 m
+CH,City Hall,NL,100 Queen St W,(416) 393-7650,M5H 2N3,M5H,76,Bay Street Corridor,27,Toronto Centre-Rosedale,No,No,25943,40,"9,428","5,074",32425,8,55,N/A,None,less than 50 m
+AN,Annette Street,NL,145 Annette St.,(416) 393-7692,M6P 1P3,M6P,90,Junction Area ,13,Parkdale-High Park,No,No,10147,50.5,"12,139","7,806",31063,11,29,1503,None,50 m - 100 m
+PV,Pleasant View,NL,575 Van Horne Ave,(416) 395-5940,M2J 4S8,M2J,46,Pleasant View,33,Don Valley East ,No,No,12564,40,"7,735","7,000",31030,8,90,1160,26,50 m - 100 m
+RX,Rexdale,NL,2243 Kipling Ave,(416) 394-5200,M9W 4L5,M9W,4,Rexdale-Kipling,2,Etobicoke North ,No,Yes,19291,40,"7,371","5,088",30180,6,55,N/A,12,50 m - 100 m
+CS,College/Shaw,NL,766 College St,(416) 393-7668,M6G 1C4,M6G,80,Palmerston-Little Italy ,19,Trinity-Spadina,No,No,24182,50.5,"12,667","7,664",30051,7,40,1653,None,less than 50 m
+GW,Guildwood,NL,123 Guildwood Pkwy ,(416) 396-8872,M1E 4V2,M1E,140,Guildwood  ,43,Scarborough East ,No,No,26425,40,"7,280","3,010",29881,5,29,N/A,Shared,50 m - 100 m
+JO,Jones,NL,118 Jones Ave,(416) 393-7715,M4M 2Z9,M4M,70,South Riverdale,30,Toronto-Danforth ,No,No,13704,50.5,"11,320","3,636",29724,8,35,N/A,2,50 m - 100 m
+EB,Elmbrook Park,NL,2 Elmbrook Cr,(416) 394-5290,M9C 5B4,M9C,11,Eringate-Centennial-West Deane,3,Etobicoke Centre ,No,No,25361,40,"9,282","3,600",29311,3,25,N/A,12,50 m - 100 m
+CC,Cliffcrest,NL,3017 Kingston Rd,(416) 396-8916,M1M 1P1,M1M,123,Cliffcrest ,36,Scarborough Southwest,No,Yes,15703,40,"8,718","4,660",29030,8,42,464,Shared,50 m - 100 m
+SL,St. Lawrence,NL,171 Front St E,(416) 393-7655,M5A 4H3,M5A,77,Waterfront Communities-The Island,28,Toronto Centre-Rosedale ,No,No,17484,50.5,"10,028","4,833",28597,7,32,N/A,None,50 m - 100 m
+SC,Scarborough Civic Centre,NL,150 Borough Dr,(416) 396-3599,M1P 4N7,M1P,127,Bendale,38,Scarborough - Centre,No,Yes,33371,62,N/A,14500,28527,18,90,792,None,50 m - 100 m
+TA,Taylor Memorial,NL,1440 Kingston Rd,(416) 396-8939,M1N 1R3,M1N,122,Birchcliffe-Cliffside,36,Scarborough Southwest ,No,No,16224,40,"7,098","5,000",27998,8,39,500,4,50 m - 100 m
+VV,Victoria Village,NL,184 Sloane Ave,(416) 395-5950,M4A 2C4,M4A,43,Victoria Village ,34,Don Valley East ,Yes,Yes,10922,40,"6,643","5,383",27180,6,22,1800,29,50 m - 100 m
+AH,Armour Heights,NL,2140 Avenue Rd ,(416) 395-5430,M5M 4M7,M5M,39,Bedford Park-Nortown ,16,Eglinton-Lawrence,No,No,16653,40,"6,097","2,988",27106,4,30,N/A,Shared,less than 50 m
+NE,Northern Elms,NL,"123 B Rexdale Blvd, Unit 5",(416) 394-5230,M9W 1P1,M9W,1,West Humber-Clairville,2,Etobicoke North ,No,Yes,16453,40,"6,698","3,032",25978,5,35,N/A,Shared,50 m - 100 m
+HB,Humber Bay,NL,200 Park Lawn Rd,(416) 394-5300,M8Y 3J1,M8Y,16,Stonegate-Queensway,5,Etobicoke-Lakeshore ,No,No,17841,40,"7,225","2,400",23857,3,18,N/A,5,50 m - 100 m
+HS,Humber Summit,NL,2990 Islington Ave,(416) 395-5840,M9L 2K6,M9L,21,Humber Summit,7,York West ,Yes,Yes,22882,40,"6,698","9,040",22724,6,60,2055,15,50 m - 100 m
+MP,Mount Pleasant,NL,599 Mt. Pleasant Rd,(416) 393-7737,M4S 2M5,M4S,99,Mount Pleasant East  ,22,St. Paul's ,No,No,26998,40,"6,789","5,829",21790,2,10,791,None,50 m - 100 m
+QS,Queen/Saulter,NL,765 Queen St E,(416) 393-7723,M4M 1H3,M4M,70,South Riverdale,30,Toronto-Danforth ,No,No,2692,40,"5,569","2,957",21619,6,29,N/A,None,50 m - 100 m
+WP,Woodview Park,NL,16 Bradstock Rd,(416) 395-5960,M9M 1M8,M9M,22,Humbermede ,7,York West,Yes,Yes,9800,40,"6,352","6,658",20889,7,49,N/A,Shared,50 m - 100 m
+PE,Perth/Dupont,NL,1589 Dupont St,(416) 393-7677,M6P 3S5,M6P,93,Dovercourt-Wallace Emerson-Junction,18,Davenport,No,No,22092,40,"6,370","3,627",18976,3,17,409,None,50 m - 100 m
+SI,St. Clair/Silverthorn,NL,1748 St. Clair Ave W,(416) 393-7709,M6N 1J3,M6N,91,Weston-Pellam Park,17,Davenport ,Yes,Yes,18513,40,"6,243","4,587",15452,5,15,357,None,less than 50 m
+DT,Davenport,NL,1246 Shaw St,(416) 393-7732,M6G 3P1,M6G,94,Wychwood ,21,St. Paul's ,No,No,9792,40,"6,552","3,604",11718,3,15,579,None,50 m - 100 m
+SW,Swansea Memorial,NL,95 Lavinia Ave,(416) 393-7695,M6S 3H9,M6S,87,High Park-Swansea,13,Parkdale-High Park ,No,No,12776,28,0,"1,127",9019,2,20,N/A,Shared,50 m - 100 m
+TOD,Todmorden Room,NL,1081½ Pape Ave ,(416) 396-3875,M4K 3W6,M4K,58,Old East York ,29,Toronto-Danforth ,No,No,20215,28,"1,820",554,7844,2,4,N/A,Shared,50 m - 100 m
