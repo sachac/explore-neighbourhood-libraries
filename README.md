@@ -13,6 +13,8 @@ this repository or get in touch for more updates!
 
 ![Screenshot](screenshot.png)
 
+Notes: http://sachachua.com/blog/2015/11/exploring-neighbourhood-libraries-and-other-notes-from-the-toronto-public-library-hackathon/
+
 Released under the MIT License - have fun!
 
 ## Getting Started
