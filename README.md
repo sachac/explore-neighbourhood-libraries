@@ -23,7 +23,6 @@ Released under the MIT License - have fun!
 - [Node.js and NPM](nodejs.org) >= v0.12.0
 - [Bower](bower.io) (`npm install --global bower`)
 - [Grunt](http://gruntjs.com/) (`npm install --global grunt-cli`)
-- [SQLite](https://www.sqlite.org/quickstart.html)
 
 ### Developing
 
@@ -32,6 +31,8 @@ Released under the MIT License - have fun!
 2. Run `bower install` to install front-end dependencies.
 
 3. Run `grunt serve` to start the development server. It should automatically open the client in your browser when ready.
+
+Check out `server/api/library.js` for the scraping code and `server/public/map.js` for the mapping code.
 
 ## Tampermonkey script for injection
 
