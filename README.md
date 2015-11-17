@@ -30,15 +30,13 @@ Released under the MIT License - have fun!
 
 1. Run `npm install` to install server dependencies.
 
-2. Run `bower install` to install front-end dependencies.
-
-3. Run `grunt serve` to start the development server. It should automatically open the client in your browser when ready.
+2. Run `grunt serve` to start the development server. It should automatically open the client in your browser when ready.
 
 Check out `server/api/library.js` for the scraping code and `server/public/map.js` for the mapping code.
 
 ## Tampermonkey script for injection
 
-    document.querySelector('#refinements-library_branch').parentNode.querySelector('h3').innerHTML = 'Library Branch <a target="_blank" style="color: white; text-decoration: underline" href="http://localhost:9000/viz.html?url=' + encodeURIComponent(location.href) + '">(Visualize)</a>';
+You'll need TamperMonkey and `insert-visualize-link.js`, too.
 
 ## Released under the MIT license
 
