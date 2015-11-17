@@ -4,8 +4,8 @@
 
 'use strict';
 
-import errors from './components/errors';
-import path from 'path';
+var errors = require('./components/errors');
+var path = require('path');
 var express = require('express');
 var library = require('./api/library');
 var q = require('q');
@@ -53,6 +53,6 @@ module.exports = function(app) {
   // All other routes should redirect to the index.html
   app.route('/*')
     .get(function(req, res) {
-      res.sendFile(path.resolve(app.get('appPath') + '/index.html'));
+      res.sendFile(path.resolve(app.get('appPath') + '/viz.html'));
     });
 };

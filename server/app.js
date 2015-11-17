@@ -4,9 +4,9 @@
 
 'use strict';
 
-import express from 'express';
-import config from './config/environment';
-import http from 'http';
+var express = require('express');
+var config = require('./config/environment');
+var http = require('http');
 
 // Setup server
 var app = express();
@@ -20,12 +20,6 @@ function startServer() {
     console.log('Express server listening on %d, in %s mode', config.port, app.get('env'));
   });
 }
-
-sqldb.sequelize.sync()
-  .then(startServer)
-  .catch(function(err) {
-    console.log('Server failed to start due to error: %s', err);
-  });
-
 // Expose app
 exports = module.exports = app;
+startServer();
