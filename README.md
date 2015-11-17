@@ -30,13 +30,17 @@ Released under the MIT License - have fun!
 
 1. Run `npm install` to install server dependencies.
 
-2. Run `grunt serve` to start the development server. It should automatically open the client in your browser when ready.
+2. Run `grunt serve` to start the development server.
 
 Check out `server/api/library.js` for the scraping code and `server/public/map.js` for the mapping code.
 
-## Tampermonkey script for injection
+## Script for injecting the Visualize link.
 
-You'll need TamperMonkey and `insert-visualize-link.js`, too.
+You'll need either TamperMonkey or Greasemonkey. Then you should be
+able to open `insert-visualize-link.js` in your browser and install it
+as a user script. Once that's there, you should see a `(Visualize)`
+link next to the branch options in the Toronto Public Library search
+results page.
 
 ## Released under the MIT license
 
