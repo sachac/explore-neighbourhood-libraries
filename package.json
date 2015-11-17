@@ -21,7 +21,7 @@
     "morgan": "~1.6.1",
     "q": "^1.4.1",
     "request-promise": "^1.0.2",
-    "serve-favicon": "^2.3.0",
+    "serve-favicon": "^2.3.0"
   },
   "devDependencies": {
     "autoprefixer": "^6.0.0",
@@ -68,7 +68,7 @@
   },
   "scripts": {
     "start": "node server",
-    "test": "grunt test",
+    "test": "grunt test"
   },
   "private": true
 }
