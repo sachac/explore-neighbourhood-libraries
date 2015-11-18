@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Insert Visualize link
-// @namespace    http://tampermonkey.net/
-// @version      0.2
+// @namespace    http://sachachua.com
+// @version      0.3
 // @description  Add a visualize link to the branch search filter for http://www.torontopubliclibrary.ca
 // @author       Sacha Chua
 // @grant        unsafeWindow
@@ -153,7 +153,7 @@ function waitForGoogleMaps() {
   if (typeof w.google == 'undefined' || typeof w.google.maps == 'undefined') {
     window.setTimeout(waitForGoogleMaps, 100);
   } else {
-    initialize();
+    window.setTimeout(initialize, 200);
   }
 }
 
