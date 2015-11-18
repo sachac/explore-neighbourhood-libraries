@@ -244,7 +244,7 @@ function initialize() {
     infowindow.setContent(
       '<strong>' + count + (count == 1 ? ' item' : ' items')
         + '</strong> at ' + branch + '<br />' + address + '<br/>'
-        + '<a href="http://www.torontopubliclibrary.ca' + href + '">View search results</a>');
+        + '<a href="' + href + '">View search results</a>');
     infowindow.open(map);
   });
   map.data.addListener('click', function(event) {
