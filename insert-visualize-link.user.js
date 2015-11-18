@@ -4,7 +4,6 @@
 // @version      0.3
 // @description  Add a visualize link to the branch search filter for http://www.torontopubliclibrary.ca
 // @author       Sacha Chua
-// @grant        unsafeWindow
 // @match        http://www.torontopubliclibrary.ca/search.jsp*
 // ==/UserScript==
 /* jshint -W097 */
@@ -144,7 +143,6 @@ function addVisualizeLink(document) {
   branchSelector.parentNode.querySelector('h3').innerHTML =
     'Library Branch <a href="#" style="color: white; text-decoration: underline" id="visualize-action">(Visualize)</a>';
   document.querySelector('#visualize-action').addEventListener('click', addMap, true);
-  waitForGoogleMaps();
   return true;
 }
 
@@ -210,19 +208,27 @@ function addMap() {
   var head = document.getElementsByTagName("head")[0];
   (head || document.body).appendChild(script);
   document.querySelector('#search-bar-top').insertAdjacentHTML('beforebegin', '<div id="map" style="width: 100%; height: 400px"></div>');
+  waitForGoogleMaps();
+  return false;
 }
 
 function initialize() {
   var data = extractBranchResults();
   var w = typeof unsafeWindow == 'undefined' ? window : unsafeWindow;
   var google = w.google;
+
   var mapOptions = {
     zoom: 12,
     center: {lng: -79.38676296296297, lat: 43.671737037037005},
     mapTypeId: google.maps.MapTypeId.TERRAIN
   };
-  map = new google.maps.Map(document.getElementById('map'),
-                            mapOptions);
+  try {
+    map = new google.maps.Map(document.getElementById('map'),
+                              mapOptions);
+  } catch (err) {
+
+  }
+
   map.data.setStyle(function(feature) {
     return {
       icon: getCircle(feature)
@@ -231,6 +237,7 @@ function initialize() {
   var infowindow = new google.maps.InfoWindow({
     content: ''
   });
+
   data.features = data.features.filter(function(x) {
     return x.properties.count > 0;
   });
@@ -247,6 +254,7 @@ function initialize() {
         + '<a href="' + href + '">View search results</a>');
     infowindow.open(map);
   });
+
   map.data.addListener('click', function(event) {
     var branch = event.feature.getProperty('name');
     var count = event.feature.getProperty('count');
